@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "XXD",
+    " #X",
+    "# X"
+  ],
+  "result": {
+    "item": "weaponmod:master_pickaxe"
+  },
+  "show_notification": true
+}

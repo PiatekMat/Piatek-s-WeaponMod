@@ -1,0 +1,39 @@
+{
+
+  "itemgroup.citrine": "Piatek's Weaponmod",
+  "item.weaponmod.wooden_battleaxe": "Drewniany Topór Wojenny",
+  "item.weaponmod.stone_battleaxe": "Kamienny Topór Wojenny",
+  "item.weaponmod.iron_battleaxe": "Żelazny Topór Wojenny",
+  "item.weaponmod.gold_battleaxe": "Złoty Topór Wojenny",
+  "item.weaponmod.diamond_battleaxe": "Diamentowy Topór Wojenny",
+  "item.weaponmod.netherite_battleaxe": "Netherytowy Topór Wojenny",
+
+  "item.weaponmod.wooden_spear": "Drewniana Włócznia",
+  "item.weaponmod.stone_spear": "Kamienna Włócznia",
+  "item.weaponmod.iron_spear": "Żelazna Włócznia",
+  "item.weaponmod.gold_spear": "Złota Włócznia",
+  "item.weaponmod.diamond_spear": "Diamentowa Włócznia",
+  "item.weaponmod.netherite_spear": "Netherytowa Włócznia",
+
+  "item.weaponmod.wooden_warhammer": "Drewniany Młot Bojowy",
+  "item.weaponmod.stone_warhammer": "Kamienny Młot Bojowy",
+  "item.weaponmod.iron_warhammer": "Żelazny Młot Bojowy",
+  "item.weaponmod.gold_warhammer": "Złoty Młot Bojowy",
+  "item.weaponmod.diamond_warhammer": "Diamentowy Młot Bojowy",
+  "item.weaponmod.netherite_warhammer": "Netherytowy Młot Bojowy",
+
+  "item.weaponmod.wooden_saber": "Drewniana Szabla",
+  "item.weaponmod.stone_saber": "Kamienna Szabla",
+  "item.weaponmod.iron_saber": "Żelazna Szabla",
+  "item.weaponmod.gold_saber": "Złota Szabla",
+  "item.weaponmod.diamond_saber": "Diamentowa Szabla",
+  "item.weaponmod.netherite_saber": "Husarska Szabla",
+
+  "item.weaponmod.better_pickaxe": "Kilof Mistrza",
+  "item.weaponmod.sonic_sword": "Miecz Soniczny",
+  "item.weaponmod.dragon_battleaxe": "Smoczy Topór Wojenny",
+  "item.weaponmod.wither_war_hammer": "Witherowy Młot Bojowy",
+  "item.weaponmod.golden_steak": "Wołowinka na Cienkim",
+
+  "block.weaponmod.asbestos": "Azbest"
+}

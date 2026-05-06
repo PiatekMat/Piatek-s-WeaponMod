@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "weaponmod:netherite_battleaxe"
+    },
+    "H": {
+      "item": "minecraft:dragon_head"
+    },
+    "B": {
+      "item": "minecraft:dragon_breath"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "EHE",
+    "B#B",
+    "EHE"
+  ],
+  "result": {
+    "item": "weaponmod:dragon_battleaxe"
+  },
+  "show_notification": true
+}

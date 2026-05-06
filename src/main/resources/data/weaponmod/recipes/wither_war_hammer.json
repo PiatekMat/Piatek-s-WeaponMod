@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "H": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "B": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "HBH",
+    "E#E",
+    " # "
+  ],
+  "result": {
+    "item": "weaponmod:wither_war_hammer"
+  },
+  "show_notification": true
+}

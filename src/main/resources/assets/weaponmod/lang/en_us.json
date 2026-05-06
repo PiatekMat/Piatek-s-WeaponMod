@@ -1,0 +1,38 @@
+{
+  "itemgroup.citrine": "Piatek's Weaponmod",
+  "item.weaponmod.wooden_battleaxe": "Wooden Battle Axe",
+  "item.weaponmod.stone_battleaxe": "Stone Battle Axe",
+  "item.weaponmod.iron_battleaxe": "Iron Battle Axe",
+  "item.weaponmod.gold_battleaxe": "Gold Battle Axe",
+  "item.weaponmod.diamond_battleaxe": "Diamond Battle Axe",
+  "item.weaponmod.netherite_battleaxe": "Netherite Battle Axe",
+
+  "item.weaponmod.wooden_spear": "Wooden Spear",
+  "item.weaponmod.stone_spear": "Stone Spear",
+  "item.weaponmod.iron_spear": "Iron Spear",
+  "item.weaponmod.gold_spear": "Gold Spear",
+  "item.weaponmod.diamond_spear": "Diamond Spear",
+  "item.weaponmod.netherite_spear": "Netherite Spear",
+
+  "item.weaponmod.wooden_warhammer": "Wooden War Hammer",
+  "item.weaponmod.stone_warhammer": "Stone War Hammer",
+  "item.weaponmod.iron_warhammer": "Iron War Hammer",
+  "item.weaponmod.gold_warhammer": "Gold War Hammer",
+  "item.weaponmod.diamond_warhammer": "Diamond War Hammer",
+  "item.weaponmod.netherite_warhammer": "Netherite War Hammer",
+
+  "item.weaponmod.wooden_saber": "Wooden Saber",
+  "item.weaponmod.stone_saber": "Stone Saber",
+  "item.weaponmod.iron_saber": "Iron Saber",
+  "item.weaponmod.gold_saber": "Gold Saber",
+  "item.weaponmod.diamond_saber": "Diamond Saber",
+  "item.weaponmod.netherite_saber": "Netherite Saber",
+
+  "item.weaponmod.master_pickaxe": "Master Pickaxe",
+  "item.weaponmod.sonic_sword": "Sonic Sword",
+  "item.weaponmod.dragon_battleaxe": "Dragon Battleaxe",
+  "item.weaponmod.wither_war_hammer": "Wither Warhammer",
+  "item.weaponmod.golden_steak": "Golden Steak",
+
+  "block.weaponmod.asbestos": "Asbestos"
+}

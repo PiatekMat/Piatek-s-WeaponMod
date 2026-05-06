@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:diorite"
+    },
+    "X": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    " X ",
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "item": "weaponmod:asbestos",
+    "count": 4
+  },
+  "show_notification": true
+}

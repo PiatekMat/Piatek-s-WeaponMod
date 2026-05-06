@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "weaponmod",
+	"version": "${version}",
+	"name": "WeaponMod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Piatek"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/weaponmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.piatek.weaponmod.WeaponMod"
+		],
+		"client": [
+			"net.piatek.weaponmod.WeaponModClient"
+		],
+		"fabric-datagen": [
+			"net.piatek.weaponmod.WeaponModDataGenerator"
+		]
+	},
+	"mixins": [
+		"weaponmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

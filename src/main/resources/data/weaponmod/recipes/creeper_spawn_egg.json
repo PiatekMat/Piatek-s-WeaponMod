@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {
+      "item": "minecraft:creeper_head"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "DZD",
+    "ZEZ",
+    "DZD"
+  ],
+  "result": {
+    "item": "minecraft:creeper_spawn_egg"
+  },
+  "show_notification": true
+}
