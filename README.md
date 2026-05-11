@@ -138,7 +138,6 @@ to obtain the new equipment.
 - More special weapons
 - Additional blocks and ores
 - Better balancing
-- Multiplayer support improvements
 
 ---
 
